@@ -37,4 +37,4 @@ Aprendendo ativamente sobre **análise, visualização e ciência de dados**. Te
 - 📧 Email: britoff02@gmail.com
 
 ---
-⭐ Obrigado por visitar meu perfil!
+👍 Obrigado por visitar meu perfil!
