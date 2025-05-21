@@ -1,6 +1,9 @@
+<!-- Foto e título -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/106137024?v=4" width="150" height="150" style="border-radius: 50%" alt="Foto de Thiago"/>
+</p>
 
-
-<h1 align="center"> 👨‍💻 Thiago Felipe Ribeiro Brito</h1>
+<h1 align="center">  👨‍💻 Thiago Felipe Ribeiro Brito</h1>
 
 <p align="center">
   📊 Cientista de Dados em Formação | 🐍 Python | 📈 SQL & BI
@@ -9,9 +12,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/thiago-felipe-ribeiro-brito-48201834a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/thiago207" target="_blank">
-    <img src="https://img.shields.io/github/followers/thiago207?label=Seguidores&style=for-the-badge"/>
   </a>
 </p>
 
@@ -34,6 +34,14 @@ Aprendendo ativamente sobre **análise, visualização e ciência de dados**. Te
 
 ---
 
+### 🐍 Snake das Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thiago207/thiago207/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
 ### 📫 Contato
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/thiago-felipe-ribeiro-brito-48201834a/)
@@ -42,4 +50,3 @@ Aprendendo ativamente sobre **análise, visualização e ciência de dados**. Te
 ---
 
 ⭐ Obrigado por visitar meu perfil!
-
