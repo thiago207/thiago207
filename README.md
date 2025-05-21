@@ -1,7 +1,5 @@
 <!-- Foto e título -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/106137024?v=4" width="150" height="150" style="border-radius: 50%" alt="Foto de Thiago"/>
-</p>
+
 
 <h1 align="center">  👨‍💻 Thiago Felipe Ribeiro Brito</h1>
 
