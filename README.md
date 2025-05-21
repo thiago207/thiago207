@@ -31,20 +31,10 @@ Aprendendo ativamente sobre **análise, visualização e ciência de dados**. Te
 </div>
 
 ---
-
-### 🐍 Snake das Contribuições
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiago207/thiago207/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiago207/thiago207/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
-
 ### 📫 Contato
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/thiago-felipe-ribeiro-brito-48201834a/)
 - 📧 Email: britoff02@gmail.com
 
 ---
-
 ⭐ Obrigado por visitar meu perfil!
