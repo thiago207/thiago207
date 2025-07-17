@@ -22,15 +22,6 @@ Aprendendo ativamente sobre **análise, visualização e ciência de dados**. Te
 🎯 Estou em busca de uma **oportunidade de estágio** para colocar em prática o que venho aprendendo e seguir evoluindo profissionalmente. Tenho muita **vontade de aprender**, crescer na área e **contribuir com soluções.**
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiago207&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago207&layout=compact&theme=tokyonight"/>
-</div>
-
----
 ### 📫 Contato
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/thiago-felipe-ribeiro-brito-48201834a/)
