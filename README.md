@@ -4,7 +4,7 @@
 <h1 align="center">  👨‍💻 Thiago Felipe Ribeiro Brito</h1>
 
 <p align="center">
-  📊 Analista de Dados em Formação | 🐍 Python | 📈 SQL & BI
+  📊 Analista de Dados em Formação | 🐍 Python | 📁 SQL | 📝 EXCEL | 📈 POWER BI
 </p>
 
 <p align="center">
